@@ -1,7 +1,7 @@
 <?php
 
-    $name = "Fahmida";
-    $name .= " Afrin";
+    $name = "Shakib";
+    $name .= "Khan";
 
     echo $name;
     echo "<br />";
